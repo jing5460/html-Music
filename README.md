@@ -62,4 +62,4 @@ composer install
 ![webconfig](preview/admin_song_sheet.png)
 ## 捐赠支持
 ### 如果你觉得不错，可以请作者喝杯奶茶，谢谢大家支持！
-![webconfig](preview/donate.jpg)
+![webconfig](preview/xxx.jpg)
