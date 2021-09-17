@@ -1,12 +1,12 @@
 # 宅音乐播放器
 --------
-宅音乐播放器，HTML5网页播放器，集成后台管理及API调用，目前正在开发中，敬请关注
+浮窗音乐播放器，HTML5网页播放器，集成后台管理及API调用，目前正在开发中，敬请关注
 ## 技术栈
 - 后端：thinkphp 5.1
 - 前端：layui
 - 数据库：mysql
 ## 演示站
-https://player.ilt.me/
+https://player.youte.ml/
 ## 安装
 ### 视频安装教程
 https://www.bilibili.com/video/av46476706
